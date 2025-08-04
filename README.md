@@ -61,7 +61,7 @@ pip install yt-dlp
 2. Gere o executável:
 
    ```bash
-   pyinstaller --onefile --windowed youtube_mp3_downloader.py
+   pyinstaller --onefile --windowed baixar_musica.py
    ```
 
 3. O arquivo `.exe` será gerado na pasta `dist/` com o nome `youtube_mp3_downloader.exe`
